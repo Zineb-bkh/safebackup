@@ -1,0 +1,57 @@
+[
+    {
+        "id": "699dd5d0e6ade",
+        "date": "2026-02-24 17:46:08",
+        "ip": "::1",
+        "name": "zineb",
+        "company": "zineb",
+        "email": "zm179151@gmail.com",
+        "phone": "0627730508",
+        "message": "bonjour  moi zineb",
+        "lu": false
+    },
+    {
+        "id": "699dd58a6cb81",
+        "date": "2026-02-24 17:44:58",
+        "ip": "::1",
+        "name": "zi",
+        "company": "zineb",
+        "email": "scfegy@gmail.com",
+        "phone": "0627730508",
+        "message": "bonjour c&#039;est moi zineb",
+        "lu": false
+    },
+    {
+        "id": "699909de5b7b1",
+        "date": "2026-02-21 02:26:54",
+        "ip": "::1",
+        "name": "zi",
+        "company": "ri",
+        "email": "zm179151@gmail.com",
+        "phone": "0600000000",
+        "message": "bonjour c'est moi zineb",
+        "lu": true
+    },
+    {
+        "id": "699909bc46830",
+        "date": "2025-07-30 02:26:20",
+        "ip": "::1",
+        "name": "zineb",
+        "company": "stage",
+        "email": "zm179151@gmail.com",
+        "phone": "0600000000",
+        "message": "bla bla bla",
+        "lu": false
+    },
+    {
+        "id": "699909ba76fbd",
+        "date": "2025-07-21 02:26:18",
+        "ip": "::1",
+        "name": "zineb",
+        "company": "juillet",
+        "email": "zm179151@gmail.com",
+        "phone": "0600000000",
+        "message": "dashboard",
+        "lu": true
+    }
+]
