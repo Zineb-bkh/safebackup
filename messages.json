@@ -5,8 +5,8 @@
         "ip": "::1",
         "name": "zineb",
         "company": "zineb",
-        "email": "zm179151@gmail.com",
-        "phone": "0627730508",
+        "email": "example@gmail.com",
+        "phone": "0600000000",
         "message": "bonjour  moi zineb",
         "lu": false
     },
@@ -17,8 +17,8 @@
         "name": "zi",
         "company": "zineb",
         "email": "scfegy@gmail.com",
-        "phone": "0627730508",
-        "message": "bonjour c&#039;est moi zineb",
+        "phone": "0600000000",
+        "message": "bonjour c'est moi zineb",
         "lu": false
     },
     {
@@ -27,7 +27,7 @@
         "ip": "::1",
         "name": "zi",
         "company": "ri",
-        "email": "zm179151@gmail.com",
+        "email": "example@gmail.com",
         "phone": "0600000000",
         "message": "bonjour c'est moi zineb",
         "lu": true
@@ -38,7 +38,7 @@
         "ip": "::1",
         "name": "zineb",
         "company": "stage",
-        "email": "zm179151@gmail.com",
+        "email": "scfegy@gmail.com",
         "phone": "0600000000",
         "message": "bla bla bla",
         "lu": false
@@ -49,7 +49,7 @@
         "ip": "::1",
         "name": "zineb",
         "company": "juillet",
-        "email": "zm179151@gmail.com",
+        "email": "example@gmail.com",
         "phone": "0600000000",
         "message": "dashboard",
         "lu": true
